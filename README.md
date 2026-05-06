@@ -244,6 +244,9 @@ study_tracker/
 
 For issues or feature requests, contact the development team.
 
+## 🚀 Updates
+- Initial version released
+
 ## License
 
 Study Tracker © 2026. All rights reserved.
